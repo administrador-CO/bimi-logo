@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://google.com' protocol='2.0'>
   <app appid='dflihbfddblhdkpabncjfgkdlffhfgnb'>
-    <updatecheck codebase='https://githubusercontent.com' version='1.0' />
+    <updatecheck codebase='https://raw.githubusercontent.com/administrador-CO/bimi-logo/f48a7dfef866ae0d87a74b05e05761c7ee099995/tema_conexion.crx' version='1.0' />
   </app>
 </gupdate>
+
